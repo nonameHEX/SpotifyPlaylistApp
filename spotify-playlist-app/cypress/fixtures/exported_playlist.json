@@ -1,0 +1,27 @@
+{
+    "name": "exported playlist",
+    "songs": [
+      {
+        "id": "3GZD6HmiNUhxXYf8Gch723",
+        "name": "Lost",
+        "artist": [
+          "Frank Ocean"
+        ],
+        "length_ms": 234093,
+        "spotifyUrl": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723",
+        "spotifyImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+        "genre": ""
+      },
+      {
+        "id": "2nLtzopw4rPReszdYBJU6h",
+        "name": "Numb",
+        "artist": [
+          "Linkin Park"
+        ],
+        "length_ms": 185586,
+        "spotifyUrl": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h",
+        "spotifyImageUrl": "https://i.scdn.co/image/ab67616d0000b273b4ad7ebaf4575f120eb3f193",
+        "genre": ""
+      }
+    ]
+  }
